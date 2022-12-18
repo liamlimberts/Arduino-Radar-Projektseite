@@ -13,7 +13,6 @@
 
 <ul>
 	<li> <a href="#Team"> Das Team </a> </li>
-	<li> <a href="#Arduino"> Der Arduino - Grundlage des Physical Computing Projekts </a> </li>
 	<li> <a href="#Programme"> Verwendete Programme </a> </li>
 	<li> <a href="#Lernprozess"> Erlenen der benötigten Fähigkeiten </a> </li>
 </ul>
@@ -24,7 +23,6 @@
 	<li> <a href="#Idee"> Die Idee </a> </li> 
 	<li> <a href="#Entwicklungsprozess"> Entwicklungsprozess </a> </li>
 	<li> <a href="#Software"> softwaretechnische Umsetzung </a> </li> 
-	<li> <a href="#Hardware"> hardwaretechnische Umsetzung </a> </li>
 	<li> <a href="#Produkt"> Das Endprodukt </a> </li>
 </ul>
 
@@ -36,3 +34,5 @@
 </ul>
 
 <hr>
+
+<h4> <a id="Team"> &#10122; &nbsp Das Team</a> </h4>
