@@ -48,10 +48,10 @@ Zur präzisen Umsetzung und ansprechenden Dokumentation wurde eine Vielzahl von 
 	Auf Paint haben wir zum Einen unsere Pläne skizziert und zum Anderen haben wir dort Grafiken, für unser Spiel umformatiert, und die Hitboxen unser Charaktere earbeitet.
 	<li>Snipping Tool </li>
 	Mit diesem Programm konnten wir Fotos von unserem Bildschirm machen, um diese Fotos anschließend in unsere Projektseite oder unser Stundenprotokoll einzufügen
-	
 	<li>Github </li>
 	GitHub ist eine Software zur Versionsverwaltung von Software. Für dieses Projekt wurde GitHub für die Dokumentation genutzt, um Stundenprotokolle, eine Art Tagebuch für jede Stunde, und eine Projektseite, eine Zusammenfassung des Halbjahresprojektes, zu erstellen. 
 
+</ul>
 
 	
 	
