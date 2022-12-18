@@ -41,14 +41,14 @@ Als gute Freunde haben sich Patric und Liam zu einem Team zusammengeschlossen. B
 <h4> <a id="Programme"> &#10122; &nbsp Verwendete Programme</a> </h4>
 
 <ul>
-	<li>Greenfoot/Java IDE</li>
-	<li>Paint/Java IDE</li>
-	<li>Snipping Tool IDE</li>
-	<li>Github IDE</li>
+	<li>Greenfoot/Java </li>
+	<li>Paint/Java </li>
+	<li>Snipping Tool </li>
+	<li>Github </li>
 </ul>	
 	
 	
 	
-	<h4> <a id="Lernprozess"> &#10122; &nbsp Erlernen der benötigten Fähigkeiten</a> </h4>
+<h4> <a id="Lernprozess"> &#10122; &nbsp Erlernen der benötigten Fähigkeiten</a> </h4>
 	
 	
