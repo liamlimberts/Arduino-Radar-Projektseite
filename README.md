@@ -59,9 +59,13 @@ Zur präzisen Umsetzung und ansprechenden Dokumentation wurde eine Vielzahl von 
 <h4> <a id="Lernprozess"> &#10122; &nbsp Erlernen der benötigten Fähigkeiten</a> </h4>
 Damit diese Vielzahl von Programmen auch sinnvoll eingesetzt werden konnte, begannen wir immer zuerst mit der Einarbeitung in das jeweilige Programm. Dafür wurden unterschiedliche Quellen und Arten genutzt. Als besonders hilfreich haben sich YouTube-Tutorials für eine grobe Übersicht und Foreneintrage für die Beantwortung konkreter Fragen herausgestellt. Hierbei waren die am meisten verwendeten Quellen:
 https://www.youtube.com/watch?v=By8fojS0sIU ,
+
 https://www.youtube.com/watch?v=SBcIb4_ST8I ,
+
 https://www.youtube.com/watch?v=FoD7cjW_5lU ,
+
 https://www.youtube.com/watch?v=RQUYT9svlTg ,
+
 https://www.youtube.com/watch?v=z7RB-KSlCFQ 
 
 
