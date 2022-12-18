@@ -46,6 +46,8 @@ Als gute Freunde haben sich Patric und Liam zu einem Team zusammengeschlossen. B
 	<li>Snipping Tool IDE</li>
 	<li>Github IDE</li>
 	
+	</ul>
+	
 	<h4> <a id="Lernprozess"> &#10122; &nbsp Erlernen der benötigten Fähigkeiten</a> </h4>
 	
 	
