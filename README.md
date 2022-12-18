@@ -39,3 +39,6 @@
 Als gute Freunde haben sich Patric und Liam zu einem Team zusammengeschlossen. Beide hatten wenig bis garkeine Vorkenntnisse, was das Programmieren angeht. Aber da beide versiert mit dem Umgang mit dem Computer sind, war es für diese Beiden kein Problem, das Spiel auf wenigen Grundlagen zu programmieren. Da Beide ihrer Freizeit mit Videospielen verbringen, lag es für sie auf der Hand ein Spiel zu kreieren.
 
 <h4> <a id="Programme"> &#10122; &nbsp Verwendete Programme</a> </h4>
+
+<ul>
+	<li>Arduino IDE</li>
