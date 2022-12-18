@@ -82,13 +82,20 @@ Viele von uns kennen das T-Rex-Spiel, welches erscheint, wenn man kein Internetv
 Der Entwicklungsprozess startete am 16.8.2022, der ersten Informatikstunde mit einer Brainstormingphase und dem Aufgreifen der Idee eines Spiels. Innerhalb der nächsten Stunden, kristallisierte sich herraus, das wir eine Art Jump and Run Spiel programmieren wollten. Daraufhin folgte ein viermonatiger Entwicklungsprozess, wo wir unsere Plänse und Gedanken, zur Wirlichkeit werden lassen konnten. Anfangs konnten wir guten Fortschritt vermerken, doch nachdem wir die Integrierung des Spielers und dessen Steuerung fertig hatten, mussten wir aufgrund von Problemen fast alles nochmal machen, da wir zu diesem Zeitpunkt einen anderen Weg für unser Spiel eingeschlagen hatten.
 
 <h4> <a id="Software"> &#10123; &nbsp softwaretechnische Umsetzung </a> </h4>
-Die Aufgabe der Software ist ein Spiel zu erstellen, in dem der Spieler eine Fliege steuert, mitwelcher er dann von A nach B kommen muss, in dem einen, von der Software erstellten, Jump and Run Parkour absolviert. Die Software dient der Steuerung der Fliege, sowie des erstellens eines Starts, eines Ziels, der einzelnen Platformen und der Schilder. 
+Die Aufgabe der Software ist ein Spiel zu erstellen, in dem der Spieler eine fliege steuert, miut welcher er dann von A nach B kommen muss, in dem einen, von der Software erstellten, Jump and Run Parkour absolviert. Die Software dient der Steuerung der Fliege, sowie des erstellens eines Starts, eines Ziels, der einzelnen Platformen und der Schielder. 
 <ul>
 	<li>Die Steuerung für die Bewegungen lässt sich in Greenfoot unter Fly finden. Unter public void movement haben wir da eingestellt welche Taste man drücken muss, damit sich die Fliege bewegt. Um das zu machen sagt man der Software durch if(Greenfot.isKeyDown) und dann definirt man welche Taste gedrückt werden muss, in dem man das dahinter in Klammern schreibt. Damit ist für die Software klar, wenn die Taste D gedückt wird muss ich die Flige auf der x-Achse bewegen. Damit die Software aber auc hweiß in welcheRichtung und wie weit sie die Fliege  bewegen soll. schreibt man darunter noch: move(3). Damit ist klar die Fliege soll um 3 nach rechts bewegt werden. Damit man die Fliege aber auch in die andere Richtung auf der x-Achse bewegen kann, haben wir das gleiche nochmal gemacht. Dabei haben wir jedoch D durch A ersetzt und -3 anstelle von 3 geschrieben. -3 habben wir geschrieben damit sich die Fliege zurück bewegt, eben um 3 nach hinten. Damit die Fliege auch springen kann, sagen wir ihr über das gleiche Sythem, dass wenn space gedrückt wird sie springen soll.
 Damit wir verschiedene PLatformen haben, habe nwir als erstes in Greenfoot eine Platform hinzugefügt und der ein entsprechendes Bild zugeordnet. Die einzelnen Platformen haben wir dann unter ScrollingWorld eingefüg. Dabei mussten wir nur sagen auf welcher x- und y-Koordinate wird die Platformen haben wollen.
 Damit der Spieler auch ein Erfolgslebnis haben kann, haben wir die Erdbeer eingefügt, welche wenn sie berührt wird, dafür sorgt, dass das Spiel vor bei ist. Wird die Erbeer berührt, so erscheint ein Bild auf dem Victory drauf steht. Das schafft man, in dem man sagt, dass wenn die Erbeere berührt wird soll das Bild eingefügt werden. Sagen tut man das mit if (isTouching(Finish.class)) und dann sagt man, wenn dass der Fall ist addObject und dann der Name vom dem Object, in diesem Fall YouWin. Danach sagt man noch das die Fliege entfernt werden soll mit getWorld().removeObject(this);. Zu guter letzt muss man dem Spiel nur noch sagen das es angehalten werden soll. Dies tut man indem man sagt Greenfoot.stop(); Das gleiche Prinzip muss man auch anwenden, wenn man einen Gegner, in unserem Fall der Frosch, einfügen möchte.
-	
+Die Schilder haben wir auch unter ScrollingWorld eingefügt. ZUvor habe nwir jedoch erst einmal die Bilder in Greenfoot hochgeladen und sie dann unter Actor benannt. Damit man die Schilder jetzt in der Welt sieht, muss man unter public void fillWorld() den Namen eingeben und dann wieder die x- und y-Koordinate bestimmen, sodass das Spiel weiß wo die Schilder zusehen sein sollen. Der Code sieht dann so aus:
 
+public void fillWorld()
+[
+Start myStart;
+myStart = newStart();
+addObject(myStart, 700, 620);
+]
+		
 <h4> <a id="Produkt"> &#10123; &nbsp Das Endprodukt </a> </h4>
 
 <h4> <a id="Reflexion"> &#10124; &nbsp Reflexion und Fazit des Projekts </a> </h4>
