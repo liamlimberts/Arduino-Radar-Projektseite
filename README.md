@@ -50,6 +50,7 @@ Zur präzisen Umsetzung und ansprechenden Dokumentation wurde eine Vielzahl von 
 	Mit diesem Programm konnten wir Fotos von unserem Bildschirm machen, um diese Fotos anschließend in unsere Projektseite oder unser Stundenprotokoll einzufügen
 	
 	<li>Github </li>
+	GitHub ist eine Software zur Versionsverwaltung von Software. Für dieses Projekt wurde GitHub für die Dokumentation genutzt, um Stundenprotokolle, eine Art Tagebuch für jede Stunde, und eine Projektseite, eine Zusammenfassung des Halbjahresprojektes, zu erstellen. 
 </ul>	
 	
 	
