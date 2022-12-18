@@ -60,8 +60,15 @@ Zur präzisen Umsetzung und ansprechenden Dokumentation wurde eine Vielzahl von 
 Damit diese Vielzahl von Programmen auch sinnvoll eingesetzt werden konnte, begannen wir immer zuerst mit der Einarbeitung in das jeweilige Programm. Dafür wurden unterschiedliche Quellen und Arten genutzt. Als besonders hilfreich haben sich YouTube-Tutorials für eine grobe Übersicht und Foreneintrage für die Beantwortung konkreter Fragen herausgestellt. Hierbei waren die am meisten verwendeten Quellen:
 
 
+<hr>
+
+<h4> <a id="Idee"> &#10123; &nbsp Die Idee</a> </h4>
+
+Viele von uns kennen das T-Rex-Spiel, welches erscheint, wenn man kein Internetverbindung, auf Google Chrome, hat. Oder das Konsolen Spiel Super Mario. Diese Spiele waren ein Anreiz, für unser eigenes Spiel. Die Idee war also ein Spiel zu entwickeln, welches typischen Jump and Run Spielen ähnelt, aber unseren eigenen Vostellungen, wiederspiegelt.
 
 
+<h4> <a id="Entwicklungsprozess"> &#10123; &nbsp Entwicklungsprozess</a> </h4>
+Der Entwicklungsprozess startete am 16.8.2022, der ersten Informatikstunde mit einer Brainstormingphase und dem Aufgreifen der Idee eines Spiels. Innerhalb der nächsten Stunden, kristallisierte sich herraus, das wir eine Art Jump and Run Spiel programmieren wollten. Daraufhin folgte ein viermonatiger Entwicklungsprozess, wo wir unsere Plänse und Gedanken, zur Wirlichkeit werden lassen konnten. Anfangs konnten wir guten Fortschritt vermerken, doch nachdem wir die Integrierung des Spielers und dessen Steuerung fertig hatten, mussten wir aufgrund von Problemen fast alles nochmal machen, da wir zu diesem Zeitpunkt einen anderen Weg für unser Spiel eingeschlagen hatten
 
 
 	
