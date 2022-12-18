@@ -88,6 +88,8 @@ Der Entwicklungsprozess startete am 16.8.2022, der ersten Informatikstunde mit e
 
 <h4> <a id="Reflexion"> &#10124; &nbsp Reflexion und Fazit des Projekts </a> </h4>
 
+Aus einer Idee am Anfang des Iformatikunterrichts ist ein funktionierendes Spiel geworden, welches fordernd, aber machbar ist und Spaß beim spielen bringt. Von fast garkeinen Programmierkenntnissen, konnten wir unser Wissen erheblich Steigern und auch die Software hinter technischen Geräten besser verstehen. Die vielen Probleme konnten wir dank Herrn Buhl und eigener Recherche beheben, um so ein funktionierendes Spiel auf die Beine zu stellen. Am Ende dieses Projekts sind wir zufrieden mit dem was wir geleistet haben und mitdem was wir gelernt haben, obwohl wir nicht alle, im vorhinein festgelegten Ziele, errecht haben.
+
 <h4> <a id="Ausblick"> &#10124; &nbsp Ausblick auf kommende Veränderungen </a> </h4>
 
 Wenn wir die Möglichkeit bekommen würden an dem Projekt weiter arbeiten zu dürfen, würden wir viele kleine und manche große Änderungen vornehmen, um das Spiel noch einzigartiger und unterhalzsamer zu gestalten. Zu den Änderungen würden Gegenstände, die man einsammeln kann, gehören. Bei dem Sammeln von Gegenständen würde eine Score-Tafel, diese Gegenstände mitzählen. Wir würden ausßerdem Sound-Effekte hinzufügen, dass zum Beispiel bei Springen, Laufen oder Sterben bestimmte Geräusche zu hören sind. Wir würden warscheinlich auch den Hintergrund des Spiels und andere Grafiken verändern, damit das Spiel harmonisch wirkt. Zuletzt würden wir das Spiel verlängern und den Schwierigeitsgrad erhöhen oder meherere Level erstellen, die unterschielich schwer sind
