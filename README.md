@@ -82,7 +82,7 @@ Viele von uns kennen das T-Rex-Spiel, welches erscheint, wenn man kein Internetv
 Der Entwicklungsprozess startete am 16.8.2022, der ersten Informatikstunde mit einer Brainstormingphase und dem Aufgreifen der Idee eines Spiels. Innerhalb der nächsten Stunden, kristallisierte sich herraus, das wir eine Art Jump and Run Spiel programmieren wollten. Daraufhin folgte ein viermonatiger Entwicklungsprozess, wo wir unsere Plänse und Gedanken, zur Wirlichkeit werden lassen konnten. Anfangs konnten wir guten Fortschritt vermerken, doch nachdem wir die Integrierung des Spielers und dessen Steuerung fertig hatten, mussten wir aufgrund von Problemen fast alles nochmal machen, da wir zu diesem Zeitpunkt einen anderen Weg für unser Spiel eingeschlagen hatten.
 
 <h4> <a id="Software"> &#10123; &nbsp softwaretechnische Umsetzung </a> </h4>
-Die Aufgabe der Software ist ein Spiel zu erstellen, in dem der Spieler eine fliege steuert, miut welcher er dann von A nach B kommen muss, in dem einen, von der Software erstellten, Jump and Run Parkour absolviert. Die Software dient der Steuerung der Fliege, sowie des erstellens eines Starts, eines Ziels, der einzelnen Platformen und der Schielder. 
+Die Aufgabe der Software ist ein Spiel zu erstellen, in dem der Spieler eine Fliege steuert, mitwelcher er dann von A nach B kommen muss, in dem einen, von der Software erstellten, Jump and Run Parkour absolviert. Die Software dient der Steuerung der Fliege, sowie des erstellens eines Starts, eines Ziels, der einzelnen Platformen und der Schilder. 
 <ul>
 	<li>
 
