@@ -39,11 +39,16 @@
 Als gute Freunde haben sich Patric und Liam zu einem Team zusammengeschlossen. Beide hatten wenig bis garkeine Vorkenntnisse, was das Programmieren angeht. Aber da beide versiert mit dem Umgang mit dem Computer sind, war es für diese Beiden kein Problem, das Spiel auf wenigen Grundlagen zu programmieren. Da Beide ihrer Freizeit mit Videospielen verbringen, lag es für sie auf der Hand ein Spiel zu kreieren.
 
 <h4> <a id="Programme"> &#10122; &nbsp Verwendete Programme</a> </h4>
+Zur präzisen Umsetzung und ansprechenden Dokumentation wurde eine Vielzahl von verschiedenen Programmen benutzt und dessen Handhabung erlernt.
 
 <ul>
 	<li>Greenfoot/Java </li>
+	Dieses Programm stellt die Basis von unserem Projekt dar. Auf Greenfoot haben wir alles, was im Spiel landen sollte, dort hineingeschrieben.
 	<li>Paint/Java </li>
+	Auf Paint haben wir zum Einen unsere Pläne skizziert und zum Anderen haben wir dort Grafiken, für unser Spiel umformatiert, und die Hitboxen unser Charaktere earbeitet.
 	<li>Snipping Tool </li>
+	Mit diesem Programm konnten wir Fotos von unserem Bildschirm machen, um diese Fotos anschließend in unsere Projektseite oder unser Stundenprotokoll einzufügen
+	
 	<li>Github </li>
 </ul>	
 	
