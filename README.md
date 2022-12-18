@@ -9,17 +9,30 @@
 <hr>
 <h3>Navigation</h3>
 
-Grundlagen
--das Team
--verwendete programme
--erelernen von neuen fähigkeiten
+<b>1. Grundlagen</b>	
 
-Das Projekt
--Die idee
--entwicklungsprozess
--softwaretechnische umsetzung
--das endprodut
+<ul>
+	<li> <a href="#Team"> Das Team </a> </li>
+	<li> <a href="#Arduino"> Der Arduino - Grundlage des Physical Computing Projekts </a> </li>
+	<li> <a href="#Programme"> Verwendete Programme </a> </li>
+	<li> <a href="#Lernprozess"> Erlenen der benötigten Fähigkeiten </a> </li>
+</ul>
 
-Refelxion
--reflexion und fazit zum projekt
--ausblick auf kommende veränderungen
+<b>2. Das Projekt</b>	
+
+<ul>
+	<li> <a href="#Idee"> Die Idee </a> </li> 
+	<li> <a href="#Entwicklungsprozess"> Entwicklungsprozess </a> </li>
+	<li> <a href="#Software"> softwaretechnische Umsetzung </a> </li> 
+	<li> <a href="#Hardware"> hardwaretechnische Umsetzung </a> </li>
+	<li> <a href="#Produkt"> Das Endprodukt </a> </li>
+</ul>
+
+<b>3. Reflexion</b>
+
+<ul>
+	<li> <a href="#Reflexion"> Reflexion und Fazit des Projektes </a> </li>
+	<li> <a href="#Ausblick"> Ausblick auf kommende Veränderungen </a> </li>
+</ul>
+
+<hr>
