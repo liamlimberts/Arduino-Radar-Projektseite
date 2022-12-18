@@ -42,5 +42,10 @@ Als gute Freunde haben sich Patric und Liam zu einem Team zusammengeschlossen. B
 
 <ul>
 	<li>Greenfoot/Java IDE</li>
-	<li>Greenfoot/Java IDE</li>
+	<li>Paint/Java IDE</li>
+	<li>Snipping Tool IDE</li>
+	<li>Github IDE</li>
+	
+	<h4> <a id="Lernprozess"> &#10122; &nbsp Erlernen der benötigten Fähigkeiten</a> </h4>
+	
 	
