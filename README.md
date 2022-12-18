@@ -45,6 +45,7 @@ Als gute Freunde haben sich Patric und Liam zu einem Team zusammengeschlossen. B
 	<li>Paint/Java IDE</li>
 	<li>Snipping Tool IDE</li>
 	<li>Github IDE</li>
+</ul>	
 	
 	
 	
