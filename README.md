@@ -36,7 +36,7 @@
 <hr>
 
 <h4> <a id="Team"> &#10122; &nbsp Das Team</a> </h4>
-Als gute Freunde haben sich Patric und Liam zu einem Team zusammengeschlossen. Beide hatten wenig bis garkeine Vorkenntnisse, was das Programmieren angeht. Aber da beide versiert mit dem Umgang mit dem Computer sind, war es für diese Beiden kein Problem, das Spiel auf wenigen Grundlagen zu programmieren. Da Beide ihrer Freizeit mit Videospielen verbringen, lag es für sie auf der Hand ein Spiel zu kreieren.
+Als gute Freunde haben sich Patric und Liam zu einem Team zusammengeschlossen. Beide hatten wenig bis garkeine Vorkenntnisse, was das Programmieren angeht. Aber da beide versiert mit dem Umgang mit dem Computer sind, war es für diese Beiden kein Problem, das Spiel auf wenigen Grundlagen zu programmieren. Da Beide ihre Freizeit mit Videospielen verbringen, lag es für sie auf der Hand ein Spiel zu kreieren.
 
 <h4> <a id="Programme"> &#10122; &nbsp Verwendete Programme</a> </h4>
 Zur präzisen Umsetzung und ansprechenden Dokumentation wurde eine Vielzahl von verschiedenen Programmen benutzt und dessen Handhabung erlernt.
@@ -74,7 +74,7 @@ https://www.youtube.com/watch?v=z7RB-KSlCFQ
 
 <h4> <a id="Idee"> &#10123; &nbsp Die Idee</a> </h4>
 
-Viele von uns kennen das T-Rex-Spiel, welches erscheint, wenn man kein Internetverbindung, auf Google Chrome, hat. Oder das Konsolen Spiel Super Mario. Diese Spiele waren ein Anreiz, für unser eigenes Spiel. Die Idee war also ein Spiel zu entwickeln, welches typischen Jump and Run Spielen ähnelt, aber unseren eigenen Vostellungen, wiederspiegelt.
+Viele von uns kennen das T-Rex-Spiel, welches erscheint, wenn man keine Internetverbindung, auf Google Chrome, hat. Oder das Konsolen Spiel Super Mario. Diese Spiele waren ein Anreiz, für unser eigenes Spiel. Die Idee war also ein Spiel zu entwickeln, welches typischen Jump and Run Spielen ähnelt, aber unsere eigenen Vostellungen, wiederspiegelt.
 
 
 <h4> <a id="Entwicklungsprozess"> &#10123; &nbsp Entwicklungsprozess</a> </h4>
@@ -98,15 +98,15 @@ addObject(myStart, 700, 620);
 		
 <h4> <a id="Produkt"> &#10123; &nbsp Das Endprodukt </a> </h4>
 
-Unser Endprodukt ist in unserem Ordner, unter Datein, Ordner, kurs.informatik.12bfgcd, Liam_Patric, zu finden.
+Unser Endprodukt ist in unserem Ordner, unter Datein > Ordner > kurs.informatik.12bfgcd > Liam_Patric, zu finden.
 
 <h4> <a id="Reflexion"> &#10124; &nbsp Reflexion und Fazit des Projekts </a> </h4>
 
-Aus einer Idee am Anfang des Iformatikunterrichts ist ein funktionierendes Spiel geworden, welches fordernd, aber machbar ist und Spaß beim spielen bringt. Von fast garkeinen Programmierkenntnissen, konnten wir unser Wissen erheblich Steigern und auch die Software hinter technischen Geräten besser verstehen. Die vielen Probleme konnten wir dank Herrn Buhl und eigener Recherche beheben, um so ein funktionierendes Spiel auf die Beine zu stellen. Am Ende dieses Projekts sind wir zufrieden mit dem was wir geleistet haben und mitdem was wir gelernt haben, obwohl wir nicht alle, im vorhinein festgelegten Ziele, errecht haben.
+Aus einer Idee am Anfang des Informatikunterrichts ist ein funktionierendes Spiel geworden, welches fordernd, aber machbar ist und Spaß beim spielen bringt. Von fast garkeinen Programmierkenntnissen, konnten wir unser Wissen erheblich Steigern und auch die Software hinter technischen Geräten besser verstehen. Die vielen Probleme konnten wir dank Herrn Buhl und eigener Recherche beheben, um so ein funktionierendes Spiel auf die Beine zu stellen. Am Ende dieses Projekts sind wir zufrieden mit dem was wir geleistet haben und mitdem was wir gelernt haben, obwohl wir nicht alle, im vorhinein festgelegten Ziele, errecht haben.
 
 <h4> <a id="Ausblick"> &#10124; &nbsp Ausblick auf kommende Veränderungen </a> </h4>
 
-Wenn wir die Möglichkeit bekommen würden an dem Projekt weiter arbeiten zu dürfen, würden wir viele kleine und manche große Änderungen vornehmen, um das Spiel noch einzigartiger und unterhalzsamer zu gestalten. Zu den Änderungen würden Gegenstände, die man einsammeln kann, gehören. Bei dem Sammeln von Gegenständen würde eine Score-Tafel, diese Gegenstände mitzählen. Wir würden ausßerdem Sound-Effekte hinzufügen, dass zum Beispiel bei Springen, Laufen oder Sterben bestimmte Geräusche zu hören sind. Wir würden warscheinlich auch den Hintergrund des Spiels und andere Grafiken verändern, damit das Spiel harmonisch wirkt. Zuletzt würden wir das Spiel verlängern und den Schwierigeitsgrad erhöhen oder meherere Level erstellen, die unterschielich schwer sind
+Wenn wir die Möglichkeit bekommen würden an dem Projekt weiter arbeiten zu dürfen, würden wir viele kleine und manche große Änderungen vornehmen, um das Spiel noch einzigartiger und unterhaltsamer zu gestalten. Zu den Änderungen würden Gegenstände, die man einsammeln kann, gehören. Bei dem Sammeln von Gegenständen würde eine Score-Tafel, diese Gegenstände mitzählen. Wir würden außerdem Sound-Effekte hinzufügen, dass zum Beispiel bei Springen, Laufen oder Sterben bestimmte Geräusche zu hören sind. Wir würden warscheinlich auch den Hintergrund des Spiels und andere Grafiken verändern, damit das Spiel harmonischer wirkt. Zuletzt würden wir das Spiel verlängern und den Schwierigeitsgrad erhöhen oder meherere Level erstellen, die unterschielich schwer sind
 
 
 	
