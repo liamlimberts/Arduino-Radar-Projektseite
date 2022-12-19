@@ -98,6 +98,8 @@ addObject(myStart, 700, 620);
 		
 <h4> <a id="Produkt"> &#10123; &nbsp Das Endprodukt </a> </h4>
 
+Unser Endprodukt ist in unserem Ordner, unter Datein, Ordner, kurs.informatik.12bfgcd, Liam_Patric, zu finden.
+
 <h4> <a id="Reflexion"> &#10124; &nbsp Reflexion und Fazit des Projekts </a> </h4>
 
 Aus einer Idee am Anfang des Iformatikunterrichts ist ein funktionierendes Spiel geworden, welches fordernd, aber machbar ist und Spaß beim spielen bringt. Von fast garkeinen Programmierkenntnissen, konnten wir unser Wissen erheblich Steigern und auch die Software hinter technischen Geräten besser verstehen. Die vielen Probleme konnten wir dank Herrn Buhl und eigener Recherche beheben, um so ein funktionierendes Spiel auf die Beine zu stellen. Am Ende dieses Projekts sind wir zufrieden mit dem was wir geleistet haben und mitdem was wir gelernt haben, obwohl wir nicht alle, im vorhinein festgelegten Ziele, errecht haben.
