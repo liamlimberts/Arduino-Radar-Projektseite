@@ -103,8 +103,8 @@ Unser Projekt hat sich im Laufe der Zeit als ziemlich schwierig herauskristallis
 
 <h4> <a id="Ausblick"> &#10124; &nbsp Ausblick auf kommende Veränderungen </a> </h4>
 
-Wenn wir die Möglichkeit bekommen würden an dem Projekt weiter arbeiten zu dürfen, würden wir viele kleine und manche große Änderungen vornehmen, um das Spiel noch einzigartiger und unterhaltsamer zu gestalten. Zu den Änderungen würden Gegenstände, die man einsammeln kann, gehören. Bei dem Sammeln von Gegenständen würde eine Score-Tafel, diese Gegenstände mitzählen. Wir würden außerdem Sound-Effekte hinzufügen, dass zum Beispiel bei Springen, Laufen oder Sterben bestimmte Geräusche zu hören sind. Wir würden warscheinlich auch den Hintergrund des Spiels und andere Grafiken verändern, damit das Spiel harmonischer wirkt. Zuletzt würden wir das Spiel verlängern und den Schwierigeitsgrad erhöhen oder meherere Level erstellen, die unterschielich schwer sind
 
+Falls wir nochmal an diesem Projekt weiter arbeiten sollten, so würden wir erstmal versuchen, dass das ganze einwandfrei funktioniert. In einem weiteren Schritt würden wir dann dafür sorgen das man auf einem Radar sehen kann wo der Gegenstand sich gerade befindet, der vom radar wahrgenommen wurde. Außerdem hatten wir Anfangs noch die Idee unseren Radar auf dem Servo Motor zubefestigen, das haben wir bei diesem Projekt leider nicht geschafft, jedoch würden das wohl noch nach holen, würde sich uns die Chnace dazu bieten. Wenn man noch ein bisschen verrückter werde n möchte mit den eigenen Ideen, so könnten wir uns durch aus vorstellen das ganze auf einem extra Auto zu montieren und so durch die Gegen zufahren oder, wenn man es lieber einfach hält, so könnte man auch erstmal noch eine LED hinzufügen die dann signalisiert das ein Gegenstand erkannt wurde in dem sie aufleuchtet.
 
 	
 	
