@@ -90,12 +90,7 @@ Die Aufgabe des Servo-Motors ist es sich in einem 180 Grad Winkel dauerhaft von 
 Der Entfernungsmesser ist so programmiert, dass dieser auf eine im Vorhinein bestimmte Entfernung anspricht. Dazu wurde das Serial Monitor Tool benutzt um, dies visuell zu zeigen. Wenn sich ein Objekt hinter der festgelegten Grenze befindet, schreibt der Serial Monitor in einem bestimmten Takt eine 0 an. Unterschreitet das Objekt jedoch die Grenze, schriebt der Serial Monitor lauter Zahlen.
 
 
-public void fillWorld()
-[
-Start myStart;
-myStart = newStart();
-addObject(myStart, 700, 620);
-]
+
 		
 <h4> <a id="Produkt"> &#10123; &nbsp Das Endprodukt </a> </h4>
 
