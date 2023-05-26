@@ -3,7 +3,7 @@
 </head>
 <h3 align="center"> Ein Projekt von Patric Heil und Liam Limberts</h3>
 <h3 align="left">Stormarnschule Ahrensburg <br/> Informatik, Bl <br/> Schuljahr 2022/23, 2. Halbjahr </br> </h3> </div>
-<h3 align="left"> &#10132; <a href="https://github.com/liamlimberts/Schulprojekt"> Stundenprotokolle</a> </h3> 
+<h3 align="left"> &#10132; <a href="https://github.com/liamlimberts/Arduino/blob/main/README.md"> Stundenprotokolle</a> </h3> 
 
 <br>
 <hr>
