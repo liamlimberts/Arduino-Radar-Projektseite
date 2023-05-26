@@ -1,5 +1,5 @@
 <head>
-<h1 align="center">Jump-n-Run-Spiel/Projektseite</h1> 
+<h1 align="center">Arduino/Radar</h1> 
 </head>
 <h3 align="center"> Ein Projekt von Patric Heil und Liam Limberts</h3>
 <h3 align="left">Stormarnschule Ahrensburg <br/> Informatik, Bl <br/> Schuljahr 2022/23, 2. Halbjahr </br> </h3> </div>
