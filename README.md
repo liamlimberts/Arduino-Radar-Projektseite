@@ -98,7 +98,8 @@ Unser Endprodukt ist in unserem Ordner, unter Datein > Ordner > kurs.informatik.
 
 <h4> <a id="Reflexion"> &#10124; &nbsp Reflexion und Fazit des Projekts </a> </h4>
 
-Aus einer Idee am Anfang des Informatikunterrichts ist ein funktionierendes Spiel geworden, welches fordernd, aber machbar ist und Spaß beim spielen bringt. Von fast garkeinen Programmierkenntnissen, konnten wir unser Wissen erheblich Steigern und auch die Software hinter technischen Geräten besser verstehen. Die vielen Probleme konnten wir dank Herrn Buhl und eigener Recherche beheben, um so ein funktionierendes Spiel auf die Beine zu stellen. Am Ende dieses Projekts sind wir zufrieden mit dem was wir geleistet haben und mitdem was wir gelernt haben, obwohl wir nicht alle, im vorhinein festgelegten Ziele, errecht haben.
+Unser Projekt hat sich im Laufe der Zeit als ziemlich schwierig herauskristallisiert. Wir hatten mit vielen Schwierigkeiten zu kämpfen, zum einen mit nicht funktionierenden Teilen wie einem Bewegungsmelder und einem LCD Bildschirm, welche beide nicht richtig funktioniert hatten zum anderen reichten unsere Fachkenntnisse nicht aus um manche Dinge verwirklichen zu können. Doch mit Herrn Buhls Hilfe konnten wir am Ende dieses Halbjahres ein funktionierendes Projekt abliefern. Und da wir letztes Halbjahr ein Spiel programmiert haben, war es eine schöne Abwechslung, mal etwas physisches bearbeiten zu können. Und unser Radar ist theoretisch in der echten Welt anwendbar, da es sich nähernde Objekte wahrnimmt, was das Projekt lohnend macht.
+
 
 <h4> <a id="Ausblick"> &#10124; &nbsp Ausblick auf kommende Veränderungen </a> </h4>
 
