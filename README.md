@@ -70,14 +70,14 @@ Auf das Programieren mit Arduino waren wir durch Philipp und Arvid gestoßen. Zu
 
 <h4> <a id="Entwicklungsprozess"> &#10123; &nbsp Entwicklungsprozess</a> </h4>
 
-Der Entwicklungsprozess startete am 16.8.2022, der ersten Informatikstunde mit einer Brainstormingphase und dem Aufgreifen der Idee eines Spiels. Innerhalb der nächsten Stunden, kristallisierte sich herraus, das wir eine Art Jump and Run Spiel programmieren wollten. Daraufhin folgte ein viermonatiger Entwicklungsprozess, wo wir unsere Plänse und Gedanken, zur Wirlichkeit werden lassen konnten. Anfangs konnten wir guten Fortschritt vermerken, doch nachdem wir die Integrierung des Spielers und dessen Steuerung fertig hatten, mussten wir aufgrund von Problemen fast alles nochmal machen, da wir zu diesem Zeitpunkt einen anderen Weg für unser Spiel eingeschlagen hatten.
+Der Entwicklungsprozess startete am 11.1.2023, mit der ersten doppel Informatikstunde und einer Brainstormingphase wie wir uns unser Projekt vorstellen. Wir habe ndamit angefangen uns Videos auf YouTube darüber anzugucken wie man einen Arduino programmiert und wie man einen Arduino mit einem Servo Motor, einem Bewegungsmelder und einem Display verbindet. Nach anfägnlcihen Schwierigkeiten haben wir es dann es auch geschafft einen, im 180 Grad Radius, sich bewegenden Servo Motor zu  prgrammieren und und einen Bewegungsmelder. Jedoch wollten wir dann noch das uns auf einem Bildschirm angezeigt wird, wie weit der wahrgenommene Gegenstand entfernt ist vom Radar. Um diese Idee umsetzten zu können haben wir erst versucht unseren Code abzuändern und entsprechend zu erweitern, jedoch funktionierte danach unser ganzer Code nicht mehr und wir mussten es erneut versuchen mit einem komplett neuen Code. Das hat sich dann leider nochmal so ähnlich wiederholt, als wir versucht haben einen neune Code zuschreiben, sodass wir danach es nochmal versucht haben. Das Endprodukt sieht man dann auf IServ.
 
 <h4> <a id="Software"> &#10123; &nbsp softwaretechnische Umsetzung </a> </h4>
 Die Aufgabe unsere Codes ist es den Servo-Motor und den Entfernungsmesser zu steuern.
 
 Damit der Arduino UNO mit dem Entfernungsmesser und dem Servo-Motor verbunden ist und die Teilkomponenten mit Strom versorgt sind haben wir diese mithilfe eines Steckbrettes und vielen Kabeln miteinander Verbunden.
 
-Die Aufgabe des Servo-Motors ist es sich in einem 180 Grad Winkel dauerhaft von links nach rechts und wieder zurück zu bewegen, damit Objekte in einem 180 Grad Radius erfasst werden können. Dazu steht im Code wieweit und wie schnell bzw. mit welcher Verzögerung sich der Servo-Motor bewegen soll. 
+Die Aufgabe des Servo-Motors ist es sich in einem 180 Grad Winkel dauerhaft von links nach rechts und wieder zurück zu bewegen, damit Objekte in einem 180 Grad Radius erfasst werden können. Dazu steht im Code wie weit und wie schnell bzw. mit welcher Verzögerung sich der Servo-Motor bewegen soll. 
 
 Der Entfernungsmesser ist so programmiert, dass dieser auf eine im Vorhinein bestimmte Entfernung anspricht. Dazu wurde das Serial Monitor Tool benutzt um, dies visuell zu zeigen. Wenn sich ein Objekt hinter der festgelegten Grenze befindet, schreibt der Serial Monitor in einem bestimmten Takt eine 0 an. Unterschreitet das Objekt jedoch die Grenze, schriebt der Serial Monitor lauter Zahlen.
 
