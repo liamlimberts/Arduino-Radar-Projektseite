@@ -65,7 +65,7 @@ Für das Zusammenstecken des Arduino, dem Servo-Motor und des Entfernungsmessers
 
 <h4> <a id="Idee"> &#10123; &nbsp Die Idee</a> </h4>
 
-Viele von uns kennen das T-Rex-Spiel, welches erscheint, wenn man keine Internetverbindung, auf Google Chrome, hat. Oder das Konsolen Spiel Super Mario. Diese Spiele waren ein Anreiz, für unser eigenes Spiel. Die Idee war also ein Spiel zu entwickeln, welches typischen Jump and Run Spielen ähnelt, aber unsere eigenen Vostellungen, wiederspiegelt.
+Auf das Programieren mit Arduino waren wir durch Philipp und Arvid gestoßen. Zu erst hatten wir keinen genauen Plan was wir überhaupt prgrammieren wollen. Wir hatten erst überlegt einen Computer so zu programmieren das uns verschiedene farben auf einem Bildschirm angezeigt werden, wenn man entsprechende Tasten auf einer Tastatur drückt, haben diesen Gedanken jedoch sehr schnell wieder verworfen, da es uns dann doch zu kompliziert erschien. Also haben wir nach einer vermeindlich etwas leichteren zu bewerkstelligen Aufgabe für uns gesucht. Dabei kamen wir dann darauf einen Radar zu programmieren und da uns das noch zu simple erschien wollten wir das sich dieser auf einem servo Motor dreht und uns auf einem Bildschirm gezeigt wird wo dieser Gegenstand, der vom Radar erfasst wurde, gerade ist.
 
 
 <h4> <a id="Entwicklungsprozess"> &#10123; &nbsp Entwicklungsprozess</a> </h4>
