@@ -36,7 +36,7 @@
 <hr>
 
 <h4> <a id="Team"> &#10122; &nbsp Das Team</a> </h4>
-Als gute Freunde haben sich Patric und Liam zu einem Team zusammengeschlossen. Beide hatten wenig bis garkeine Vorkenntnisse, was das Programmieren angeht mit dem Arduino. Da jedoch bei beiden das Interesse am programmieren mit dem Arduino geweckt wurde, aufgrund des Projekts von Philipp Rinne und Arvid Späth, haben sich beide zusammen dazu entschlossen es auch einmal mit dem programmieren eines Arduinos zu probieren. 
+Als gute Freunde haben sich Patric und Liam zu einem Team zusammengeschlossen. Beide hatten wenig bis garkeine Vorkenntnisse, was das Programmieren angeht mit dem Arduino. Da jedoch bei beiden das Interesse am programmieren mit dem Arduino geweckt wurde, aufgrund des Projekts von Philipp Rinne und Arvid Spät, haben sie sich zusammen dazu entschlossen es auch einmal mit dem programmieren eines Arduinos zu probieren. 
 
 <h4> <a id="Programme"> &#10122; &nbsp Verwendete Programme</a> </h4>
 Zur präzisen Umsetzung und ansprechenden Dokumentation wurde eine Vielzahl von verschiedenen Programmen benutzt und dessen Handhabung erlernt.
